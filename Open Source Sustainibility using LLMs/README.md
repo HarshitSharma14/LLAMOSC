@@ -74,13 +74,13 @@ You can find the full demo at https://youtu.be/NuKh1i70X8Q .
 
 ## Installation instructions
 
-To begin, please follow the instructions provided in `Open Source Sustainibility using LLMs\Environment_Creation\README.md` and ensure that the scripts run successfully.
+To begin, please follow the instructions provided in `Open Source Sustainability using LLMs\Environment_Creation\README.md` and ensure that the scripts run successfully.
 
 ### Step 1: Install LLAMOSC
 
 Make sure you have your virtual environment activated, then install LLAMOSC:
 
-- The following command should be used after navigating to the directory `Open Source Sustainibility using LLMs\` i.e. the root directory of the LLAMOSC package:
+- The following command should be used after navigating to the directory `Open Source Sustainability using LLMs\` i.e. the root directory of the LLAMOSC package:
 
 ```bash
 pip install -e .
@@ -107,7 +107,7 @@ Successfully installed LLAMOSC-0.1
 Run the provided script to create the toy_repo directory:
 
 ```bash
-python "Open Source Sustainibility using LLMs\create_toy_repo.py"
+python "Open Source Sustainability using LLMs\create_toy_repo.py"
 ```
 
 This will create an empty calculator_project directory where the main `OREL-group/GSoC` repository was cloned.
@@ -137,7 +137,7 @@ After completing these steps, the directory structure should look like this:
 ```
 calculator_project/
 OREL-GSoC/
-├───Open Source Sustainibility using LLMs
+├───Open Source Sustainability using LLMs
 │   ├───Environment_Creation
 │   ├───LLAMOSC
 │   │   ├───agents
@@ -216,7 +216,7 @@ The simulation assesses different metrics such as:
 - **Contributor Experience** (how contributor experience is imapcted by issues that are closed)
 - **Contributor Motivation** (how well agents interact and based on their initial level as well)
 
-These metrics help in evaluating the impact of various practices and their level of sustainibility of open-source communities.
+These metrics help in evaluating the impact of various practices and their level of Sustainability of open-source communities.
 
 ## Additional Resources
 

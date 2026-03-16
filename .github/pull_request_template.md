@@ -19,4 +19,4 @@
 ## Checklist
 
 - [ ] CI checks pass (syntax, imports, lint, tests).
-- [ ] I have read [CONTRIBUTING.md](Open%20Source%20Sustainibility%20using%20LLMs/CONTRIBUTING.md) and followed the contribution workflow.
+- [ ] I have read [CONTRIBUTING.md](Open%20Source%20Sustainability%20using%20LLMs/CONTRIBUTING.md) and followed the contribution workflow.

@@ -17,7 +17,7 @@ Thank you for your interest in contributing. This document outlines the expected
 
 ## Code owners
 
-Changes to the core LLAMOSC logic (under `Open Source Sustainibility using LLMs/`) require review from the designated code owners. This helps protect repository integrity and research components.
+Changes to the core LLAMOSC logic (under `Open Source Sustainability using LLMs/`) require review from the designated code owners. This helps protect repository integrity and research components.
 
 ## Questions
 

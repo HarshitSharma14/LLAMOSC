@@ -6,7 +6,7 @@ This README file provides instructions on how to reproduce the code for the Envi
 
 1. Make sure you have Python installed on your system.
 2. Open a terminal or command prompt.
-3. Navigate to the correct directory: `OREL-GSoC/Open Source Sustainibility using LLMs/Environment_Creation/`.
+3. Navigate to the correct directory: `OREL-GSoC/Open Source Sustainability using LLMs/Environment_Creation/`.
 4. Run the following command to create a virtual environment:
 
 ```shell

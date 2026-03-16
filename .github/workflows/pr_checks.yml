@@ -15,7 +15,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: "Open Source Sustainibility using LLMs"
+        working-directory: "Open Source Sustainability using LLMs"
 
     steps:
       - name: Checkout repository

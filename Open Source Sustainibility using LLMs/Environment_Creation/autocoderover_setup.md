@@ -1,4 +1,4 @@
-## About AutoCodeRover and it's role in the Open Source Sustainibility using LLMs Project.
+## About AutoCodeRover and it's role in the Open Source Sustainability using LLMs Project.
 I was working on creating an environment for the agents, ie. allowing them to navigate codespaces and solve issues, and did some research for the same during which I came across the following papers : CodeR (https://arxiv.org/pdf/2406.01304), SWE-Agent (https://arxiv.org/abs/2405.15793) and AutoCodeRover (https://arxiv.org/abs/2404.05427)
 Among these I feel the best fit for the project at hand is trying to implementing AutoCodeRover with a toy repo, and I'm working on the same.
 
